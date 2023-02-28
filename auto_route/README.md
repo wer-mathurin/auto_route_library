@@ -96,7 +96,7 @@ class AppRouter extends _$AppRouter {
   @override    
   final List<AutoRoute> routes = [    
    /// routes go here   
-   ]  
+   ];
  }             
 ```               
 ### Generating Routable pages
