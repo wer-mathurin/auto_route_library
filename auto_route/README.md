@@ -103,7 +103,7 @@ class AppRouter extends _$AppRouter {
 Routable pages are just simple everyday widgets annotated with `@RoutePage()` which allows them to be constructed by the router.
 ```dart      
 @RoutePage()  
-class HomeScreen§ extends StatefulWidget {}  
+class HomeScreen extends StatefulWidget {}  
 ```    
 
 #### Now simply run the generator
